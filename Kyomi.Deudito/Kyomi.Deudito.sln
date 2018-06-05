@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyomi.Deudito.Data", "Kyomi.Deudito.Data\Kyomi.Deudito.Data.csproj", "{D4FD4E1E-D1F5-41AE-B5C6-D16E487BF4F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyomi.Deudito.API", "Kyomi.Deudito.API\Kyomi.Deudito.API.csproj", "{0BBCFB46-AA49-489A-A8A9-FC545822E275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyomi.Deudito.API.Tests", "Kyomi.Deudito.API.Tests\Kyomi.Deudito.API.Tests.csproj", "{DCCC6132-02DF-437E-B29B-DF238E43D3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D4FD4E1E-D1F5-41AE-B5C6-D16E487BF4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FD4E1E-D1F5-41AE-B5C6-D16E487BF4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FD4E1E-D1F5-41AE-B5C6-D16E487BF4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBCFB46-AA49-489A-A8A9-FC545822E275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBCFB46-AA49-489A-A8A9-FC545822E275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBCFB46-AA49-489A-A8A9-FC545822E275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBCFB46-AA49-489A-A8A9-FC545822E275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCC6132-02DF-437E-B29B-DF238E43D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCC6132-02DF-437E-B29B-DF238E43D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCC6132-02DF-437E-B29B-DF238E43D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCC6132-02DF-437E-B29B-DF238E43D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
